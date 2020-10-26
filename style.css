@@ -1,0 +1,27 @@
+
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 400px;
+    background-color: burlywood;
+};
+
+td {
+    width: 100px;
+    height: 100px;
+}
+
+tr {
+    height: 100px;
+}
+
+table, td, th {
+    border: 1px solid black;
+    width: 300px;
+}
+
+span {
+    font-size: larger;
+}
