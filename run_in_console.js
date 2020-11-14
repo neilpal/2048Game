@@ -4,11 +4,7 @@ import Game from "./engine/game.js";
 keypress(process.stdin);
 
 
-/**
- * The code in this file is used to run your game in the console. Use it
- * to help develop your game engine.
- *
- */
+
 
 let game = new Game(4);
 console.log(game.toString());
